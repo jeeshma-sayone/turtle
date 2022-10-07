@@ -85,3 +85,7 @@ t.forward(60)
 t.left(90)
 t.forward(15)
 t.end_fill()
+
+
+# holding the output on the window
+turtle.done()

@@ -11,3 +11,6 @@ for x in range(360):
     t.width(x // 100 + 1)
     t.forward(x)
     t.left(59)
+
+# holding the output on the window
+turtle.done()
